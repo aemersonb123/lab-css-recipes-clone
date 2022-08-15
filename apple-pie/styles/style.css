@@ -1,0 +1,38 @@
+header {
+    background-image: url("../images/apple-pie.jpg");
+    height: 500px;
+   text-align: center;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+h1 {
+    padding-top: 25%;
+text-align: center;
+color: white;
+background-clip: padding-box;
+margin-left:auto;
+}
+p {
+    
+    text-align: center;
+}
+
+div {
+    margin: 10px, 25px, 10px, 25px;
+    
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+.img-1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+.text {
+    margin-left: 100px;
+    margin-right: 100px;
+font-family: sans-serif;
+}
